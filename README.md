@@ -1,2 +1,2 @@
 # jas
-Just another shell written in go
+`Just another shell`, written in go
